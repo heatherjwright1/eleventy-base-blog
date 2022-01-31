@@ -19,3 +19,14 @@
     "url": "https://naughty-newton-89a511.netlify.app"
   }
 }
+<li class="postlist-item">
+    <a href="/posts/firstpost/" class="postlist-link">This is my first post. (added for the task)</a>
+    <time class="postlist-date" datetime="2018-07-04">04 Jul 2018</time>
+    
+      
+      <a href="/tags/number-2/" class="post-tag">number 2</a>
+    
+  </li>
+
+<a href="https://www.bbc.co.uk">Visit the BBC website here!</a>
+<img src="1280px-BBC.svg.png" alt="BBC Logo">
